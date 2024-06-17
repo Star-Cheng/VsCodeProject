@@ -1,0 +1,15 @@
+zhang 1001 Nanjing Programming Han Christianity 0
+wang 1003 Xi'an Fine Arts Hui Islam 0
+zhao 1004 Hangzhou writing Han Christianity 0
+zhou 1005 Qingdao game Han Buddhism 0
+wu 1006 Suzhou Dance Hui Islam 0
+chen 1007 Shenyang history Han Christianity 1
+sun 1008 Dalian Chemistry Han Buddhism true
+ming 1009 Beijing Basketball Han Buddhism 0
+qian 1010 Chongqing Reading Han Buddhism 1
+zheng 1011 Xi'an Fine Arts Hui Islam 0
+geng 1012 Hangzhou writing Han Christianity 1
+qing 1013 Qingdao game Han Buddhism 0
+peng 1014 suzhou dance hui islam 0
+cheng 1015 shenyang history han christianity 0
+dong 1016 Dalian Chemistry Han Buddhism 0
